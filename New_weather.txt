@@ -1,0 +1,13 @@
+,month,avg_precipitation
+0,Jan,2.95
+1,Feb,3.02
+2,Mar,2.34
+3,Apr,1.02
+4,May,0.48
+5,Jun,0.11
+6,Jul,0.0
+7,Aug,0.03
+8,Sep,0.17
+9,Oct,0.81
+10,Nov,1.7
+11,Dec,2.56
